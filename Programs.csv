@@ -1,0 +1,16 @@
+Type,Program Name,Value (Number of optional subject or Subject name)
+P,ABC,2
+CS,ABC,Sub1
+CS,ABC,Sub2
+OS,ABC,Sub3
+OS,ABC,Sub4
+OS,ABC,Sub9
+OS,ABC,Sub10
+P,DEF,1
+CS,DEF,Sub5
+CS,DEF,Sub6
+CS,DEF,Sub7
+CS,DEF,Sub8
+OS,DEF,Sub3
+OS,DEF,Sub9
+OS,DEF,Sub10
